@@ -1,6 +1,6 @@
 ### Jonathas Ray <br/>
 Olá. Eu me chamo Jonathas e sou estudante do SENAI - BA, curso de <b>D</b>esenvolvimento de <b>S</b>istemas <b>[DS]</b><br>
-Atualmente desenvolvendo minhas aptidões com C e Python, mas até o fim do curso terei me familiarizado com ...<br>
+Atualmente desenvolvendo minhas aptidões com C e Python, mas até o fim do curso também estarei me familiarizado com Java, Javascript, SQL, entre outras.<br>
 
 Apaixonado pela adrenalina do desafio 😎
 
