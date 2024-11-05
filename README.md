@@ -1,16 +1,13 @@
-## Hi there 👋
+### Jonathas Ray <br/>
+Olá. Eu me chamo Jonathas e sou estudante do SENAI - BA, curso de <b>D</b>esenvolvimento de <b>S</b>istemas <b>[DS]</b><br>
+Atualmente desenvolvendo minhas aptidões com C e Python, mas até o fim do curso terei me familiarizado com ...<br>
 
-<!--
-**Jonathas-Ray/Jonathas-Ray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado pela adrenalina do desafio 😎
 
-Here are some ideas to get you started:
+### Linguagens em prática
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Ray&hide_progress=true) -->
+
+![jonathas-Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathas-Ray&show_icons=true&theme=highcontrast)
