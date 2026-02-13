@@ -1,5 +1,9 @@
 ### Jonathas Ray <br/>
-Olá. Eu me chamo Jonathas, estou cursando <b>D</b>esenvolvimento de <b>S</b>istemas <b>[DS]</b> no SENAI<br>
+Desenvolvedor Fullstack formado pelo SENAI-BA, com sólida base em Arquitetura de Sistemas e soluções integradas com IoT. Minha trajetória é marcada pela versatilidade: transito entre o desenvolvimento de sistemas robustos em Java (Spring Boot), a performance do C/C++ e a agilidade de automações com Python e Firebase.
+
+Tenho foco na construção de soluções multiplataforma que unem eficiência técnica e boas práticas de design de software. Atualmente, aprofundo meus estudos em engenharia de dados e IA, com interesse voltado para o desenvolvimento de NLP (Processamento de Linguagem Natural) e LLMs.
+
+Aplico Práticas Ágeis (Scrum/Kanban) na organização de fluxos de trabalho e versionamento, garantindo entregas estruturadas, escaláveis e alinhadas às necessidades do mercado.
 
 Apaixonado pela adrenalina do desafio 😎
 
